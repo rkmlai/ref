@@ -13,8 +13,9 @@ The Dashboard is a Windows application supports data monitoring and logging of s
 
 The Dashboard supports over 30+ environmental sensor devices: in-development, production and third-party.
 
-The Dashboard can support up to 200Hz (data acquisition and logging are only limited by physical comm speed) of graph data refresh and update. This allows demonstration of high sampling frequency sensor devices
-![alt text](raw/device-2017-08-30-16.07.53.png "Dashboard - Sensor Array")
+The Dashboard can support up to 200Hz (data acquisition and logging are only limited by the physical comm speed and sensor measurement rate of above 500Hz) of graph data refresh and update. This allows demonstration of high sampling frequency sensor devices.
+
+![Dashboard](raw/device-2017-08-30-16.07.53.png)
 
 All publicly available evaluation kits, internal development platforms and customer specific kits are supported by the Dashboard. Not only the Dashboard software is a convenient one stop solution for end user sensor product evaluation, but also because of its high performance, reliability and user-friendly interface, it is intensively used by the internal product development teams to perform measurement and testing for characterisation and algorithm development, trade show demos, etc.
 
@@ -30,7 +31,7 @@ The bridge board, when instructed by the host system, is able to perform simple 
 
 The communication protocol is ASCII command line based and multiplexed, hence one or more sensor devices can be targeted independently or collectively.
 
-![alt text](raw/device-2017-08-07-19.03.36.png "Dashboard - Sensor Array")
+![Dashboard](raw/device-2017-08-07-19.03.36.png)
 
 A public version of stripped down bridge board and documented communication interface is also available as a **USB-I2C evaluation kit bridge dongle**: <https://ams.com/usbi2c>.
 
@@ -38,7 +39,7 @@ Host applications can communicate with any sensor device at register map or feat
 
 The platform is also fully integrated in the **Dashboard**. The following screenshot shows real-time 20Hz of measurement data (read, processed, displayed, graphed and logged) from over 128 independently running sensors:  
 
-![alt text](raw/device-2017-10-29-16.40.30.png "Dashboard - Sensor Array")
+![Dashboard](raw/device-2017-10-29-16.40.30.png)
 
 ## Multi-Sensor Evaluation Platform I
 
