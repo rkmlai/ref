@@ -69,7 +69,7 @@ A mobile stripped down version of the Dashboard software running on Android smar
 
 ## Breathalyser (Android)
 
-The following document provides an overview of an user demo application with algorithm implemented to showcase the performance of CCS803 (obsoleted) sensor. CCS803 was an analog sensor to detect ethanol concentration changes in breathalyser applications.
+The following document provides an overview of an user demo application with algorithm implemented to showcase the performance of CCS803 (obsoleted) sensor. CCS803 was an analogue sensor to detect ethanol concentration changes in breathalyser applications.
 
 PDF: [raw/CCS_Breathalyser.pdf](raw/CCS_Breathalyser.pdf)
 
