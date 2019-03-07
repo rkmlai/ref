@@ -3,7 +3,7 @@ The following shows some of project reference materials available in the public 
 
 ## Library and API Document
 
-This is an indoor air quality software library for CCS801 gas sensor device. The library contains algorithm to convert raw signals from CCS801 analog sensor to indication levels of indoor air quality in equivalent CO2/TVOC. 
+This is an indoor air quality software library for CCS801 gas sensor device. The library contains algorithm to convert raw signals from CCS801 analogue sensor to indication levels of indoor air quality in equivalent CO2/TVOC. 
 
 Document and library download: <https://ams.com/ccs801> -> `Tools & Support`
 
